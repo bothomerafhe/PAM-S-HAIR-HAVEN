@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,10 +32,12 @@
         <h2>Our Services</h2>
         <div class="service">
             <h3>Wig Revamping</h3>
+            <img src="wig revamping.jpg"
             <p>Bring your old wigs back to life with our professional revamping service.</p>
         </div>
         <div class="service">
             <h3>Custom Wig Making</h3>
+            <img src="custom wig making.jpg"
             <p>Get a custom wig made to suit your unique style and needs.</p>
         </div>
         <div class="service">
